@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/antic</item>
+        <item>@font/asap_medium</item>
+        <item>@font/baloo</item>
+        <item>@font/bangers</item>
+        <item>@font/candal</item>
+        <item>@font/capriola</item>
+        <item>@font/days_one</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/lemon</item>
+        <item>@font/palanquin_dark</item>
+        <item>@font/palanquin_dark_bold</item>
+        <item>@font/sonsie_one</item>
+    </array>
+</resources>
